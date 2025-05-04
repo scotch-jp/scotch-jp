@@ -5,4 +5,4 @@
 2. My favorites are Python and Processing.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=scotch-jp)
-![](https://skillicons.dev/icons?i=swift,python,processing)
+![](https://skillicons.dev/icons?i=swift,python,processing,windows,mac,linux)
